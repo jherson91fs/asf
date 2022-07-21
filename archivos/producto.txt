@@ -1,0 +1,5 @@
+001;Vat-69;350ml;Whisky;11.6667
+002;Vat-69;700ml;Whisky;17.1667003;Baileys;375ml;Coctel;27.5
+003;Baileys;375ml;Coctel;27.5
+004;Baileys;750ml;Coctel;58.333
+005;RON CARTAVIO;750ML;WKISKY;21.00
